@@ -19,6 +19,3 @@ It is implemented using LSTM and Word Embeddings to gain accuracy of 97.84%.
 
 ## 📧Contact:-
 For any kind of suggesstions/ help in models code Please mail me at anil0singh02@gmail.com.
-
-## 📜 LICENSE
-[MIT](https://github.com/ksdkamesh99/Spam-Classifier/blob/master/LICENSE)
